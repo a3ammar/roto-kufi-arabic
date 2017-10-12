@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Roto Kufi Arabic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./RotoKufiArabic-Regular.woff2') format('woff2'),
+       url('./RotoKufiArabic-Regular.woff') format('woff'),
+       url('./RotoKufiArabic-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roto Kufi Arabic';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./RotoKufiArabic-Bold.woff2') format('woff2'),
+       url('./RotoKufiArabic-Bold.woff') format('woff'),
+       url('./RotoKufiArabic-Bold.ttf') format('truetype');
+}
